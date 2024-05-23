@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Zainab Khan</h1>
+<h3 align="center">A passionate Software developer from India</h3>
+
 # 💫 About Me:
 🌱I'm currently learning Android Studio<br>👩🏻‍💻 I’m currently working on HealthHub App<br>📫 How to reach me zainabk7585@gmail.com<br>👀 I'm interested in Software and App Development<br>💬 Ask me about Android Studio, Java , Firebase<br>⚡I'm Ice-cream lover 😍
 
